@@ -1,4 +1,4 @@
-![](https://github.com/Guskyn13/Guskyn13/blob/main/bannerGithub.png)
+![](https://github.com/Guskyn13/Guskyn13/blob/main/bannerFinal.png)
 
 # 😎 **Hey! I'm Nathan!** 😎
 
