@@ -4,7 +4,13 @@
 
 
 ## Projects :art:
+### Inclined Catering | [Frontend Repo](github.com/Guskyn13/inclined-catering)
 
+🌮 User friendly catering company's homepage. Reactjs
+
+### Drone Daily | Repo
+
+✈️ Reactjs and Firebase
 
 ## Get in Touch 📫
 
