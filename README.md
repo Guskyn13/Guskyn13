@@ -4,13 +4,19 @@
 
 
 ## Projects :art:
-### Inclined Catering | [Frontend Repo](github.com/Guskyn13/inclined-catering)
+### Inclined Catering | [Frontend](github.com/Guskyn13/inclined-catering)
 
 🌮 User friendly catering company's homepage. Reactjs
 
 ### Drone Daily | [Repo](github.com/Guskyn13/DroneDaily)
 
 ✈️ Reactjs and Firebase
+
+
+### Chat Application | [Frontend](https://github.com/Guskyn13/socket.io_chatApp/tree/main/frontend/socket-chat-app) | [Server](https://github.com/Guskyn13/socket.io_chatApp/tree/main/server)
+
+🖥️ Online chat application for users. Reactjs Nodejs Socket.io
+
 
 ## Get in Touch 📫
 
