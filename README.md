@@ -4,7 +4,7 @@
 
 Experienced Full Stack Developer, originated with Javascript as well as Ruby on Rails with knowledge in React. Background in customer service with skills of working in teams to create an endless positive environment.
 
-Passion for problem solving grueling bugs. Enjoy frontend design to provide attractive products for clients. Looking to grow, increase my knowledge and expand my craft. 
+Passion for problem solving grueling bugs. Enjoy frontend design to provide attractive products to elevate clients expectations. Looking to grow, increase my knowledge and expand my craft. 
 
 ## Projects :art:
 ### Inclined Catering | [Frontend](github.com/Guskyn13/inclined-catering)
