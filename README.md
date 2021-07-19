@@ -7,7 +7,7 @@ Experienced Full Stack Developer, originated with Javascript as well as Ruby on 
 Passion for problem solving grueling bugs. Enjoy frontend design to provide attractive products to elevate clients expectations. Looking to grow, increase my knowledge and expand my craft. 
 
 
-### Inclined Catering | [Frontend](github.com/Guskyn13/inclined-catering)
+### Inclined Catering | [Frontend](https://github.com/Guskyn13/inclined-catering)
 
 🌮 User friendly catering company's homepage. Reactjs
 
