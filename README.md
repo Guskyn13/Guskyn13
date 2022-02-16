@@ -9,7 +9,7 @@ Passion for problem solving grueling bugs. Enjoy frontend design to provide attr
 
 ### Crypto Query | [Repo](https://github.com/Guskyn13/inclined-catering)
 
-🌮 Crypto platform to search coin data and mining profitability
+:currency_exchange: Crypto platform to search coin data and mining profitability
 
 React JS, Tailwind CSS, Sanity, Rapid API
 
