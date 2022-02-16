@@ -7,18 +7,24 @@ Experienced Full Stack Developer, originated with Javascript as well as Ruby on 
 Passion for problem solving grueling bugs. Enjoy frontend design to provide attractive products to elevate clients expectations. Looking to grow, increase my knowledge and expand my craft. 
 
 
-### Inclined Catering | [Frontend](https://github.com/Guskyn13/inclined-catering)
+### Crypto Query | [Repo](https://github.com/Guskyn13/inclined-catering)
 
-🌮 User friendly catering company's homepage. Reactjs
+🌮 Crypto platform to search coin data and mining profitability
 
-### Drone Daily | [Repo](https://github.com/Guskyn13/DroneDaily)
+React JS, Tailwind CSS, Sanity, Rapid API
 
-✈️ Reactjs and Firebase
+### Droneography | [Repo](https://github.com/Guskyn13/droneography)
+
+✈️ Social site to display photos take by drone pilots and to communicate with other pilots
+
+Reactjs, Tailwind CSS, Sanity
 
 
 ### Chat Application | [Frontend](https://github.com/Guskyn13/socket.io_chatApp/tree/main/frontend/socket-chat-app) | [Server](https://github.com/Guskyn13/socket.io_chatApp/tree/main/server)
 
-🖥️ Online chat application for users. Reactjs Nodejs Socket.io
+🖥️ Online chat application for users
+
+Reactjs Nodejs Socket.io
 
 
 
